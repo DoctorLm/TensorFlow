@@ -3,22 +3,18 @@
 # Tensorflow实现单变量线性回归
 # 假设我们要学习的函数为线性函数y = 2x +1
 # 生成数据
-import matplotlib.pyplot as plt # 载入matplotlib
-import numpy as np # 载入numpy
-import tensorflow as tf # 载入Tensorflow
+import matplotlib.pyplot as plt
+import numpy as np
+import tensorflow as tf
 
 # 设置随机数种子
 np.random.seed(5)
-
 # 直接采用np生成等差数列的方法，生成100个点，每个点的取值在-1~1之间
 x_data = np.linspace(-1, 1, 100)
-
 # y = 2x +1 + 噪声， 其中， 噪声的唯度与x_data一致
 y_data = 2 * x_data + 1.0 + np.random.randn(*x_data.shape) * 0.4
-
 # 画出随机生成数据的散点图
 plt.scatter(x_data, y_data)
-
 # 画出通过学习得到的目标线性函数 y = 2x + 1
 plt.plot(x_data, 2 * x_data + 1.0, color='red', linewidth=3)
 plt.show()
@@ -34,10 +30,9 @@ def model(x,w,b):
     return tf.multiply(x,w)+b
 
 # 创建变量
-# ● Tensorflow变量的声明函数是tf.Variable
-# ● tf.Variable的作用是保存和更新参数
-# ● 变量的初始值可以是随机数、常数，或是通过其他变量的初始值计算得到
-
+# Tensorflow变量的声明函数是tf.Variable
+# tf.Variable的作用是保存和更新参数
+# 变量的初始值可以是随机数、常数，或是通过其他变量的初始值计算得到
 # 构建线性函数的斜率，变量w
 w = tf.Variable(1.0,name="w0")
 # 构建线性函数的截距，变量b
@@ -50,21 +45,18 @@ pred = model(x,w,b)
 # 设置训练参数
 # 迭代次数（训练轮数）
 train_epochs = 10
-
 # 学习率
 learning_rate = 0.05
-
 # 控制显示loss值的粒度
 display_step = 10
 
 # 关于学习率（learning_rate）的设置
-# ● 学习率的作用：控制参数更新的幅度。
-# ● 如果学习率设置过大，可能导致参数在极值附过来回摇摆，无法保证收敛。
-# ● 如果学习率设置过小，虽然能保证收敛，但优化速度会大大降低，我们需要更多迭代次数才能达到较理想的优化效果
+# 学习率的作用：控制参数更新的幅度。
+# 如果学习率设置过大，可能导致参数在极值附过来回摇摆，无法保证收敛。
+# 如果学习率设置过小，虽然能保证收敛，但优化速度会大大降低，我们需要更多迭代次数才能达到较理想的优化效果
 # 定义损失函数
-# ● 损失函数用于描述预测值与真实值之间的误差，从而指导模型收敛方向
-# ● 常见损失函数：均方差（Mean Square Error，MSE）和交叉熵（cross-entropy）
-
+# 损失函数用于描述预测值与真实值之间的误差，从而指导模型收敛方向
+# 常见损失函数：均方差（Mean Square Error，MSE）和交叉熵（cross-entropy）
 # 采用均方差作为损失函数
 loss_function = tf.reduce_mean(tf.square(y-pred))
 
@@ -76,8 +68,8 @@ optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(loss_funct
 sess = tf.Session()
 
 # 变量初始化
-# ● 在真正执行计算之前，需将所有变量初始化
-# ● 通过tf.global_variables_initializer 函数可实现对所有变量的初始化
+# 在真正执行计算之前，需将所有变量初始化
+# 通过tf.global_variables_initializer 函数可实现对所有变量的初始化
 init = tf.global_variables_initializer()
 sess.run(init)
 
@@ -107,7 +99,6 @@ for epoch in range(train_epochs):
 # 对于复杂模型，需要更多次训练才能收敛。
 plt.plot(loss_list)
 plt.show()
-
 plt.plot(loss_list,'g2')
 plt.show()
 
