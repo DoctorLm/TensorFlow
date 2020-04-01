@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		6D1254E924344B7300E7D156 /* MNIST手写数字识别：TensorFlow 2.0 实践.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "MNIST手写数字识别：TensorFlow 2.0 实践.ipynb"; sourceTree = "<group>"; };
 		6D1254EA24344FAB00E7D156 /* MNIST手写数字识别：TensorFlow 2.0 实践.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "MNIST手写数字识别：TensorFlow 2.0 实践.py"; sourceTree = "<group>"; };
+		6D1254EB24345FCD00E7D156 /* Tensorflow2.0实现单变量线性回归.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0实现单变量线性回归.ipynb"; sourceTree = "<group>"; };
 		6D4B6D8C24341AF40059607C /* TensorFlow@-01-简明Python基础.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "TensorFlow@-01-简明Python基础.py"; sourceTree = "<group>"; };
 		6D4B6D8D24341AF40059607C /* 词频统计3x.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "词频统计3x.py"; sourceTree = "<group>"; };
 		6D4B6D8E24341AF40059607C /* 词频统计2x.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "词频统计2x.py"; sourceTree = "<group>"; };
@@ -108,6 +109,7 @@
 		6D4B6E0324341AF40059607C /* tf3_6.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_6.py; sourceTree = "<group>"; };
 		6D4B6E0424341AF40059607C /* tf3_2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_2.py; sourceTree = "<group>"; };
 		6D4B6E0524341AF40059607C /* tf3_3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_3.py; sourceTree = "<group>"; };
+		6DBE965E2434C2F600483B3A /* Tensorflow2.0实现单变量线性回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Tensorflow2.0实现单变量线性回归.py"; sourceTree = "<group>"; };
 		6DC69F8A24342C170074269A /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -126,10 +128,10 @@
 			children = (
 				6D4B6D8B24341AF40059607C /* 第03讲（根据基础选修） 工欲善其事必先利其器：简明Python基础 */,
 				6D4B6D9324341AF40059607C /* 第04讲 磨刀不误砍柴工：TensorFlow 编程基础 */,
+				6D4B6DBA24341AF40059607C /* 第05讲 单变量线性回归：TesnsorFlow实战 */,
 				6D4B6D9C24341AF40059607C /* 第06讲 多元线性回归：波士顿房价预测问题TesnsorFlow实战 */,
 				6D4B6DA524341AF40059607C /* 第07讲 MNIST手写数字识别：分类应用入门 */,
 				6D4B6DAC24341AF40059607C /* 第08讲 MNIST手写数字识别进阶：多层神经网络与应用 */,
-				6D4B6DBA24341AF40059607C /* 第05讲 单变量线性回归：TesnsorFlow实战 */,
 				6D4B6DBF24341AF40059607C /* 第09讲 图像识别问题：卷积神经网络与应用 */,
 			);
 			path = "深度学习应用开发";
@@ -252,10 +254,12 @@
 		6D4B6DBA24341AF40059607C /* 第05讲 单变量线性回归：TesnsorFlow实战 */ = {
 			isa = PBXGroup;
 			children = (
-				6D4B6DBB24341AF40059607C /* TensorFlow@3单变量线性回归-显示Loss.py */,
-				6D4B6DBC24341AF40059607C /* TensorFlow@3单变量线性回归-显示Loss.ipynb */,
 				6D4B6DBD24341AF40059607C /* .ipynb_checkpoints */,
+				6D4B6DBC24341AF40059607C /* TensorFlow@3单变量线性回归-显示Loss.ipynb */,
+				6D4B6DBB24341AF40059607C /* TensorFlow@3单变量线性回归-显示Loss.py */,
 				6D4B6DBE24341AF40059607C /* TensorFlow@3单变量线性回归.ipynb */,
+				6D1254EB24345FCD00E7D156 /* Tensorflow2.0实现单变量线性回归.ipynb */,
+				6DBE965E2434C2F600483B3A /* Tensorflow2.0实现单变量线性回归.py */,
 			);
 			path = "第05讲 单变量线性回归：TesnsorFlow实战";
 			sourceTree = "<group>";
@@ -410,12 +414,12 @@
 		6D4B6DFF24341AF40059607C /* tf */ = {
 			isa = PBXGroup;
 			children = (
-				6D4B6E0024341AF40059607C /* tf3_4.py */,
-				6D4B6E0124341AF40059607C /* tf3_5.py */,
 				6D4B6E0224341AF40059607C /* tf3_1.py */,
-				6D4B6E0324341AF40059607C /* tf3_6.py */,
 				6D4B6E0424341AF40059607C /* tf3_2.py */,
 				6D4B6E0524341AF40059607C /* tf3_3.py */,
+				6D4B6E0024341AF40059607C /* tf3_4.py */,
+				6D4B6E0124341AF40059607C /* tf3_5.py */,
+				6D4B6E0324341AF40059607C /* tf3_6.py */,
 			);
 			path = tf;
 			sourceTree = "<group>";
