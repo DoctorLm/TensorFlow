@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		6D1254E924344B7300E7D156 /* MNIST手写数字识别：TensorFlow 2.0 实践.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "MNIST手写数字识别：TensorFlow 2.0 实践.ipynb"; sourceTree = "<group>"; };
+		6D1254EA24344FAB00E7D156 /* MNIST手写数字识别：TensorFlow 2.0 实践.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "MNIST手写数字识别：TensorFlow 2.0 实践.py"; sourceTree = "<group>"; };
 		6D4B6D8C24341AF40059607C /* TensorFlow@-01-简明Python基础.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "TensorFlow@-01-简明Python基础.py"; sourceTree = "<group>"; };
 		6D4B6D8D24341AF40059607C /* 词频统计3x.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "词频统计3x.py"; sourceTree = "<group>"; };
 		6D4B6D8E24341AF40059607C /* 词频统计2x.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "词频统计2x.py"; sourceTree = "<group>"; };
@@ -201,6 +203,8 @@
 		6D4B6DA524341AF40059607C /* 第07讲 MNIST手写数字识别：分类应用入门 */ = {
 			isa = PBXGroup;
 			children = (
+				6D1254EA24344FAB00E7D156 /* MNIST手写数字识别：TensorFlow 2.0 实践.py */,
+				6D1254E924344B7300E7D156 /* MNIST手写数字识别：TensorFlow 2.0 实践.ipynb */,
 				6D4B6DA624341AF40059607C /* argmax函数.py */,
 				6D4B6DA724341AF40059607C /* Tensorflow@-5-Mnist_DataSet_Introduce.ipynb */,
 				6D4B6DA824341AF40059607C /* Mnist_DataSet_Introduce.py */,
