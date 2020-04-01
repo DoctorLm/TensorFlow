@@ -106,12 +106,14 @@
 		6D4B6E0324341AF40059607C /* tf3_6.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_6.py; sourceTree = "<group>"; };
 		6D4B6E0424341AF40059607C /* tf3_2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_2.py; sourceTree = "<group>"; };
 		6D4B6E0524341AF40059607C /* tf3_3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_3.py; sourceTree = "<group>"; };
+		6DC69F8A24342C170074269A /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		6D4B6D8324341ACF0059607C = {
 			isa = PBXGroup;
 			children = (
+				6DC69F8924342BFC0074269A /* WorkSpase */,
 				6D4B6D8A24341AF40059607C /* 深度学习应用开发 */,
 				6D4B6DC524341AF40059607C /* TensorFlow笔记 */,
 			);
@@ -412,6 +414,14 @@
 				6D4B6E0524341AF40059607C /* tf3_3.py */,
 			);
 			path = tf;
+			sourceTree = "<group>";
+		};
+		6DC69F8924342BFC0074269A /* WorkSpase */ = {
+			isa = PBXGroup;
+			children = (
+				6DC69F8A24342C170074269A /* main.py */,
+			);
+			path = WorkSpase;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
