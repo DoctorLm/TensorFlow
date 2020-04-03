@@ -6,7 +6,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
-print(tf.__version__)
+print("TensorFlow版本:", tf.__version__)
 np.random.seed(5) # 设置随机数种子
 
 # 直接采用np生成等差数列的方法，生成100个点，每个点的取值在-1~1之间
