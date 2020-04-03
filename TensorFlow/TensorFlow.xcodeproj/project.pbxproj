@@ -114,6 +114,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		6D37FE3A2437125800CF7478 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				6D4B6D9124341AF40059607C /* THE TRAGEDY OF ROMEO AND JULIET.txt */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
 		6D4B6D8324341ACF0059607C = {
 			isa = PBXGroup;
 			children = (
@@ -145,7 +153,6 @@
 				6D4B6D8E24341AF40059607C /* 词频统计2x.py */,
 				6D4B6D8F24341AF40059607C /* 词频统计.ipynb */,
 				6D4B6D9024341AF40059607C /* TensorFlow@-01-简明Python基础.ipynb */,
-				6D4B6D9124341AF40059607C /* THE TRAGEDY OF ROMEO AND JULIET.txt */,
 				6D4B6D9224341AF40059607C /* .ipynb_checkpoints */,
 			);
 			path = "第03讲（根据基础选修） 工欲善其事必先利其器：简明Python基础";
@@ -427,6 +434,7 @@
 		6DC69F8924342BFC0074269A /* WorkSpase */ = {
 			isa = PBXGroup;
 			children = (
+				6D37FE3A2437125800CF7478 /* Data */,
 				6DC69F8A24342C170074269A /* main.py */,
 			);
 			path = WorkSpase;
