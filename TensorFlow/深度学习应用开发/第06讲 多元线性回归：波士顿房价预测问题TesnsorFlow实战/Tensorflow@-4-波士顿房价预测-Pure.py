@@ -32,8 +32,7 @@ from sklearn.utils import shuffle
 
 # 通过Pandas导入数据
 # 读取数据文件
-df = pd.read_csv("WorkSpase/dataset/boston_data/boston.csv", header=0)
-/Users/lumin/Documents/GitHub.com/TensorFlow/TensorFlow/WorkSpase/dataset/boston_data/boston.csv
+df = pd.read_csv("/Users/lumin/Documents/GitHub.com/TensorFlow/TensorFlow/WorkSpase/dataset/boston_data/boston.csv", header=0)
 # 显示数据摘要描述信息
 print(df.describe())
 
