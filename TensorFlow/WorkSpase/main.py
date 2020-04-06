@@ -34,22 +34,17 @@ x = tf.placeholder(tf.float32, [None,12], name = "X") # 12个特征数据（12�
 y = tf.placeholder(tf.float32, [None,1], name = "Y")  # 1个标签数据(1列)
 
 with tf.name_scope("Model"):
-    # w初始化值为shape=(12,1)的随机数
-    w = tf.Variable(tf.random_normal([12,1], stddev=0.01), name="W")
-    # b初始化值为1.0
-    b = tf.Variable(1.0, name="b")
-    
-    # w和x是矩阵相乘，用matmul,不能用mutiply或*
-    def model(x, w, b):
+    w = tf.Variable(tf.random_normal([12,1], stddev=0.01), name="W") # w初始化值为shape=(12,1)的随机数
+    b = tf.Variable(1.0, name="b") # b初始化值为1.0
+    def model(x, w, b): # w和x是矩阵相乘，用matmul,不能用mutiply或*
         return tf.matmul(x, w) + b
-    
-    # 预测计算操作，前向计算节点
-    pred = model(x, w, b)
+    pred = model(x, w, b) # 预测计算操作，前向计算节点
 
 # 训练模型
 # 设置训练参数（超参数）
 train_epochs = 50 # 迭代轮次
 learning_rate = 0.01 # 学习率
+
 # 定义均方差损失函数
 # 定义损失函数
 with tf.name_scope("LossFunction"):
@@ -74,7 +69,7 @@ for epoch in range (train_epochs):
         loss_sum = loss_sum + loss
         
     # 打乱数据顺序
-    x_data, y_data = shuffle(x_data, y_data)
+    xvalues, yvalues = shuffle(x_data, y_data)
 
     b0temp = b.eval(session=sess)
     w0temp = w.eval(session=sess)
