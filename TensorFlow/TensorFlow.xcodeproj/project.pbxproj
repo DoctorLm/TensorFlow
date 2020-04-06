@@ -167,7 +167,6 @@
 			children = (
 				6D4B6DA424341AF40059607C /* 线性代数-矩阵运算.ipynb */,
 				6D4B6D9E24341AF40059607C /* 线性代数-矩阵运算.py */,
-				6DCB756F2437F2090084F531 /* boston_data */,
 				6D4B6D9D24341AF40059607C /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard.ipynb */,
 				6D4B6DA024341AF40059607C /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */,
 				6D4B6D9F24341AF40059607C /* Tensorflow@-4-波士顿房价预测-Pure.py */,
@@ -369,6 +368,7 @@
 		6DC69F8924342BFC0074269A /* WorkSpase */ = {
 			isa = PBXGroup;
 			children = (
+				6DD1793F243AE408006D9842 /* dataset */,
 				6DC69F8A24342C170074269A /* main.py */,
 			);
 			path = WorkSpase;
@@ -380,6 +380,14 @@
 				6DCB756E2437F1E90084F531 /* boston.csv */,
 			);
 			path = boston_data;
+			sourceTree = "<group>";
+		};
+		6DD1793F243AE408006D9842 /* dataset */ = {
+			isa = PBXGroup;
+			children = (
+				6DCB756F2437F2090084F531 /* boston_data */,
+			);
+			path = dataset;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
