@@ -1,2 +1,3 @@
 #coding:utf-8
-print("你好，世界！")
+import tensorflow as tf
+print("TensorFlow版本:", tf.__version__)
