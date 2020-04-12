@@ -108,7 +108,6 @@
 		6D4B6E0524341AF40059607C /* tf3_3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_3.py; sourceTree = "<group>"; };
 		6DBE965E2434C2F600483B3A /* Tensorflow2.0实现单变量线性回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Tensorflow2.0实现单变量线性回归.py"; sourceTree = "<group>"; };
 		6DC69F8A24342C170074269A /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
-		6DCB756E2437F1E90084F531 /* boston.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = boston.csv; sourceTree = "<group>"; };
 		6DCB75702438017C0084F531 /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -368,26 +367,9 @@
 		6DC69F8924342BFC0074269A /* WorkSpase */ = {
 			isa = PBXGroup;
 			children = (
-				6DD1793F243AE408006D9842 /* dataset */,
 				6DC69F8A24342C170074269A /* main.py */,
 			);
 			path = WorkSpase;
-			sourceTree = "<group>";
-		};
-		6DCB756F2437F2090084F531 /* boston_data */ = {
-			isa = PBXGroup;
-			children = (
-				6DCB756E2437F1E90084F531 /* boston.csv */,
-			);
-			path = boston_data;
-			sourceTree = "<group>";
-		};
-		6DD1793F243AE408006D9842 /* dataset */ = {
-			isa = PBXGroup;
-			children = (
-				6DCB756F2437F2090084F531 /* boston_data */,
-			);
-			path = dataset;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
