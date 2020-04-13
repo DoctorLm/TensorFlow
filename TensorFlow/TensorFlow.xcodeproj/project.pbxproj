@@ -177,20 +177,12 @@
 				6D9729812445005E00A3CE4A /* 线性代数-矩阵运算.py */,
 				6D9729822445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure.py */,
 				6D9729832445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */,
-				6D9729842445005E00A3CE4A /* .ipynb_checkpoints */,
 				6D97298F2445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */,
 				6D9729902445005E00A3CE4A /* HomeWork.ipynb */,
 				6D9729912445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.py */,
 				6D9729922445005E00A3CE4A /* 线性代数-矩阵运算.ipynb */,
 			);
 			path = "第06讲 多元线性回归：波士顿房价预测问题TesnsorFlow实战";
-			sourceTree = "<group>";
-		};
-		6D9729842445005E00A3CE4A /* .ipynb_checkpoints */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = .ipynb_checkpoints;
 			sourceTree = "<group>";
 		};
 		6D9729932445005E00A3CE4A /* 第07讲 MNIST手写数字识别：分类应用入门 */ = {
@@ -202,18 +194,10 @@
 				6D9729972445005E00A3CE4A /* Tensorflow@-5-Mnist_DataSet_Introduce.ipynb */,
 				6D9729982445005E00A3CE4A /* Mnist_DataSet_Introduce.py */,
 				6D9729992445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践.py */,
-				6D97299A2445005E00A3CE4A /* .ipynb_checkpoints */,
 				6D9729A12445005E00A3CE4A /* argmax函数.ipynb */,
 				6D9729A22445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践.ipynb */,
 			);
 			path = "第07讲 MNIST手写数字识别：分类应用入门";
-			sourceTree = "<group>";
-		};
-		6D97299A2445005E00A3CE4A /* .ipynb_checkpoints */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = .ipynb_checkpoints;
 			sourceTree = "<group>";
 		};
 		6D9729A32445005E00A3CE4A /* 第08讲 MNIST手写数字识别进阶：多层神经网络与应用 */ = {
@@ -246,17 +230,9 @@
 				6D9729B62445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss.py */,
 				6D9729B72445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss.ipynb */,
 				6D9729B82445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归.py */,
-				6D9729B92445005E00A3CE4A /* .ipynb_checkpoints */,
 				6D9729C02445005E00A3CE4A /* TensorFlow@3单变量线性回归.ipynb */,
 			);
 			path = "第05讲 单变量线性回归：TesnsorFlow实战";
-			sourceTree = "<group>";
-		};
-		6D9729B92445005E00A3CE4A /* .ipynb_checkpoints */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = .ipynb_checkpoints;
 			sourceTree = "<group>";
 		};
 		6D9729C12445005E00A3CE4A /* 第09讲 图像识别问题：卷积神经网络与应用 */ = {
