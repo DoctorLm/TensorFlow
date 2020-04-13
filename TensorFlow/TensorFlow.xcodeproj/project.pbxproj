@@ -23,16 +23,6 @@
 		6D9729812445005E00A3CE4A /* 线性代数-矩阵运算.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "线性代数-矩阵运算.py"; sourceTree = "<group>"; };
 		6D9729822445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Tensorflow@-4-波士顿房价预测-Pure.py"; sourceTree = "<group>"; };
 		6D9729832445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb"; sourceTree = "<group>"; };
-		6D9729852445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb"; sourceTree = "<group>"; };
-		6D9729862445005E00A3CE4A /* HomeWork-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "HomeWork-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D9729872445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D9729882445005E00A3CE4A /* 线性代数-矩阵运算-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "线性代数-矩阵运算-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D9729892445005E00A3CE4A /* HomeWork-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "HomeWork-checkpoint.ipynb"; sourceTree = "<group>"; };
-		6D97298A2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint.ipynb"; sourceTree = "<group>"; };
-		6D97298B2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D97298C2445005E00A3CE4A /* 线性代数-矩阵运算-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "线性代数-矩阵运算-checkpoint.ipynb"; sourceTree = "<group>"; };
-		6D97298D2445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb"; sourceTree = "<group>"; };
-		6D97298E2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb"; sourceTree = "<group>"; };
 		6D97298F2445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb"; sourceTree = "<group>"; };
 		6D9729902445005E00A3CE4A /* HomeWork.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = HomeWork.ipynb; sourceTree = "<group>"; };
 		6D9729912445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.py"; sourceTree = "<group>"; };
@@ -65,12 +55,6 @@
 		6D9729B62445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "TensorFlow@3单变量线性回归-显示Loss.py"; sourceTree = "<group>"; };
 		6D9729B72445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-显示Loss.ipynb"; sourceTree = "<group>"; };
 		6D9729B82445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Tensorflow2.0实现单变量线性回归.py"; sourceTree = "<group>"; };
-		6D9729BA2445005E00A3CE4A /* TensorFlow@3单变量线性回归-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D9729BB2445005E00A3CE4A /* TensorFlow@3单变量线性回归-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-checkpoint.ipynb"; sourceTree = "<group>"; };
-		6D9729BC2445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0实现单变量线性回归-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D9729BD2445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-显示Loss-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D9729BE2445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-显示Loss-checkpoint.ipynb"; sourceTree = "<group>"; };
-		6D9729BF2445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0实现单变量线性回归-checkpoint.ipynb"; sourceTree = "<group>"; };
 		6D9729C02445005E00A3CE4A /* TensorFlow@3单变量线性回归.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归.ipynb"; sourceTree = "<group>"; };
 		6D9729C22445005E00A3CE4A /* 研究案例.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "研究案例.ipynb"; sourceTree = "<group>"; };
 		6D9729C32445005E00A3CE4A /* CNN_CIFAR10.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNN_CIFAR10.ipynb; sourceTree = "<group>"; };
@@ -205,16 +189,6 @@
 		6D9729842445005E00A3CE4A /* .ipynb_checkpoints */ = {
 			isa = PBXGroup;
 			children = (
-				6D9729852445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb */,
-				6D9729862445005E00A3CE4A /* HomeWork-checkpoint 3.ipynb */,
-				6D9729872445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb */,
-				6D9729882445005E00A3CE4A /* 线性代数-矩阵运算-checkpoint 3.ipynb */,
-				6D9729892445005E00A3CE4A /* HomeWork-checkpoint.ipynb */,
-				6D97298A2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint.ipynb */,
-				6D97298B2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint 3.ipynb */,
-				6D97298C2445005E00A3CE4A /* 线性代数-矩阵运算-checkpoint.ipynb */,
-				6D97298D2445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb */,
-				6D97298E2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb */,
 			);
 			path = .ipynb_checkpoints;
 			sourceTree = "<group>";
@@ -281,12 +255,6 @@
 		6D9729B92445005E00A3CE4A /* .ipynb_checkpoints */ = {
 			isa = PBXGroup;
 			children = (
-				6D9729BA2445005E00A3CE4A /* TensorFlow@3单变量线性回归-checkpoint 3.ipynb */,
-				6D9729BB2445005E00A3CE4A /* TensorFlow@3单变量线性回归-checkpoint.ipynb */,
-				6D9729BC2445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归-checkpoint 3.ipynb */,
-				6D9729BD2445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss-checkpoint 3.ipynb */,
-				6D9729BE2445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss-checkpoint.ipynb */,
-				6D9729BF2445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归-checkpoint.ipynb */,
 			);
 			path = .ipynb_checkpoints;
 			sourceTree = "<group>";
