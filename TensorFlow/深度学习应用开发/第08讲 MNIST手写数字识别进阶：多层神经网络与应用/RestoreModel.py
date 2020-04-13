@@ -8,9 +8,6 @@ print("TensorFlow版本:", tf.__version__)
 
 from tensorflow.examples.tutorials.mnist import input_data
 mnist = input_data.read_data_sets("/Users/lumin/Documents/dataset/MNIST_data", one_hot=True)
-print("训练集 train.num_examples      数量:", mnist.train.num_examples,
-    "\n验证集 validation.num_examples 数量:", mnist.validation.num_examples,
-    "\n测试集 test.num_examples       数量:", mnist.test.num_examples)
     
 #定义全连接层函数
 def fcn_layer(inputs,           #输入数据
@@ -95,7 +92,7 @@ print("Test Accuracy:", sess.run(accuracy, feed_dict={x: mnist.test.images, y: m
 # 由于pred预测结果是one-hot编码格式，所以需要转换为0~9数字。
 prediction_result = sess.run(tf.argmax(pred, 1), feed_dict={x: mnist.test.images})
 # 查看预测结果中的前10项
-print(prediction_result[0:25].reshape(5,5))
+print(prediction_result[0:25])
 
 # 可视化函数
 def plot_images_labels_prediction(images,     # 图像列表
