@@ -115,6 +115,7 @@
 		6D4B6D8324341ACF0059607C = {
 			isa = PBXGroup;
 			children = (
+				6D827E892444FC3A007FBF81 /* 深度学习应用开发 */,
 				6DC69F8924342BFC0074269A /* WorkSpase */,
 				6D4B6D8A24341AF40059607C /* 深度学习应用开发1 */,
 				6D4B6DC524341AF40059607C /* TensorFlow笔记1 */,
@@ -362,6 +363,13 @@
 				6D4B6E0324341AF40059607C /* tf3_6.py */,
 			);
 			path = tf;
+			sourceTree = "<group>";
+		};
+		6D827E892444FC3A007FBF81 /* 深度学习应用开发 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "深度学习应用开发";
 			sourceTree = "<group>";
 		};
 		6DC69F8924342BFC0074269A /* WorkSpase */ = {
