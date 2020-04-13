@@ -43,12 +43,6 @@
 		6D9729972445005E00A3CE4A /* Tensorflow@-5-Mnist_DataSet_Introduce.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-5-Mnist_DataSet_Introduce.ipynb"; sourceTree = "<group>"; };
 		6D9729982445005E00A3CE4A /* Mnist_DataSet_Introduce.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Mnist_DataSet_Introduce.py; sourceTree = "<group>"; };
 		6D9729992445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "MNIST手写数字识别：TensorFlow 2.0 实践.py"; sourceTree = "<group>"; };
-		6D97299B2445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint.ipynb"; sourceTree = "<group>"; };
-		6D97299C2445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D97299D2445005E00A3CE4A /* argmax函数-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "argmax函数-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D97299E2445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint 3.ipynb"; sourceTree = "<group>"; };
-		6D97299F2445005E00A3CE4A /* argmax函数-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "argmax函数-checkpoint.ipynb"; sourceTree = "<group>"; };
-		6D9729A02445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint.ipynb"; sourceTree = "<group>"; };
 		6D9729A12445005E00A3CE4A /* argmax函数.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "argmax函数.ipynb"; sourceTree = "<group>"; };
 		6D9729A22445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "作业4:MNIST手写数字识别问题的单神经元模型实践.ipynb"; sourceTree = "<group>"; };
 		6D9729A42445005E00A3CE4A /* 单隐藏层神经网络构建与应用.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单隐藏层神经网络构建与应用.ipynb"; sourceTree = "<group>"; };
@@ -157,10 +151,10 @@
 			children = (
 				6D9729712445005E00A3CE4A /* 第03讲（根据基础选修） 工欲善其事必先利其器：简明Python基础 */,
 				6D9729782445005E00A3CE4A /* 第04讲 磨刀不误砍柴工：TensorFlow 编程基础 */,
+				6D9729B42445005E00A3CE4A /* 第05讲 单变量线性回归：TesnsorFlow实战 */,
 				6D97297F2445005E00A3CE4A /* 第06讲 多元线性回归：波士顿房价预测问题TesnsorFlow实战 */,
 				6D9729932445005E00A3CE4A /* 第07讲 MNIST手写数字识别：分类应用入门 */,
 				6D9729A32445005E00A3CE4A /* 第08讲 MNIST手写数字识别进阶：多层神经网络与应用 */,
-				6D9729B42445005E00A3CE4A /* 第05讲 单变量线性回归：TesnsorFlow实战 */,
 				6D9729C12445005E00A3CE4A /* 第09讲 图像识别问题：卷积神经网络与应用 */,
 			);
 			path = "深度学习应用开发";
@@ -244,12 +238,6 @@
 		6D97299A2445005E00A3CE4A /* .ipynb_checkpoints */ = {
 			isa = PBXGroup;
 			children = (
-				6D97299B2445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint.ipynb */,
-				6D97299C2445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint 3.ipynb */,
-				6D97299D2445005E00A3CE4A /* argmax函数-checkpoint 3.ipynb */,
-				6D97299E2445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint 3.ipynb */,
-				6D97299F2445005E00A3CE4A /* argmax函数-checkpoint.ipynb */,
-				6D9729A02445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint.ipynb */,
 			);
 			path = .ipynb_checkpoints;
 			sourceTree = "<group>";
@@ -257,22 +245,22 @@
 		6D9729A32445005E00A3CE4A /* 第08讲 MNIST手写数字识别进阶：多层神经网络与应用 */ = {
 			isa = PBXGroup;
 			children = (
-				6D9729A42445005E00A3CE4A /* 单隐藏层神经网络构建与应用.ipynb */,
-				6D9729A52445005E00A3CE4A /* TF_MNIST_h256_TensorBoard.ipynb */,
-				6D9729A62445005E00A3CE4A /* 模型重构_MNIST_H256_H64_V1.ipynb */,
-				6D9729A72445005E00A3CE4A /* TF_MNIST_多层神经网络与应用.ipynb */,
-				6D9729A82445005E00A3CE4A /* Mnist - RestoreModel.ipynb */,
-				6D9729A92445005E00A3CE4A /* 模型重构_MNIST_H256_H64_H32_V1.ipynb */,
-				6D9729AA2445005E00A3CE4A /* SaveModel.py */,
-				6D9729AB2445005E00A3CE4A /* Mnist - SaveModel.ipynb */,
 				6D9729AC2445005E00A3CE4A /* 保存模型_MNIST_H256_SaveModel.ipynb */,
-				6D9729AD2445005E00A3CE4A /* RestoreModel.py */,
-				6D9729AE2445005E00A3CE4A /* 作业5:MNIST手写数字识别问题的多层神经网络模型实践.ipynb */,
-				6D9729AF2445005E00A3CE4A /* 还原模型_MNIST_H256_RestoreModel.ipynb */,
-				6D9729B02445005E00A3CE4A /* 模型重构_MNIST_H256_V1.ipynb */,
 				6D9729B12445005E00A3CE4A /* 初始化参数和文件目录.ipynb */,
+				6D9729A42445005E00A3CE4A /* 单隐藏层神经网络构建与应用.ipynb */,
+				6D9729AF2445005E00A3CE4A /* 还原模型_MNIST_H256_RestoreModel.ipynb */,
+				6D9729A92445005E00A3CE4A /* 模型重构_MNIST_H256_H64_H32_V1.ipynb */,
+				6D9729A62445005E00A3CE4A /* 模型重构_MNIST_H256_H64_V1.ipynb */,
+				6D9729B02445005E00A3CE4A /* 模型重构_MNIST_H256_V1.ipynb */,
+				6D9729AE2445005E00A3CE4A /* 作业5:MNIST手写数字识别问题的多层神经网络模型实践.ipynb */,
+				6D9729A82445005E00A3CE4A /* Mnist - RestoreModel.ipynb */,
+				6D9729AB2445005E00A3CE4A /* Mnist - SaveModel.ipynb */,
 				6D9729B22445005E00A3CE4A /* MNIST_H256_H64_H32.ipynb */,
 				6D9729B32445005E00A3CE4A /* MNIST_H256_H64.ipynb */,
+				6D9729AD2445005E00A3CE4A /* RestoreModel.py */,
+				6D9729AA2445005E00A3CE4A /* SaveModel.py */,
+				6D9729A72445005E00A3CE4A /* TF_MNIST_多层神经网络与应用.ipynb */,
+				6D9729A52445005E00A3CE4A /* TF_MNIST_h256_TensorBoard.ipynb */,
 			);
 			path = "第08讲 MNIST手写数字识别进阶：多层神经网络与应用";
 			sourceTree = "<group>";
