@@ -7,6 +7,80 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		6D9729722445005E00A3CE4A /* TensorFlow@-01-简明Python基础.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "TensorFlow@-01-简明Python基础.py"; sourceTree = "<group>"; };
+		6D9729732445005E00A3CE4A /* 词频统计3x.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "词频统计3x.py"; sourceTree = "<group>"; };
+		6D9729742445005E00A3CE4A /* 词频统计2x.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "词频统计2x.py"; sourceTree = "<group>"; };
+		6D9729752445005E00A3CE4A /* 词频统计.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "词频统计.ipynb"; sourceTree = "<group>"; };
+		6D9729762445005E00A3CE4A /* TensorFlow@-01-简明Python基础.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@-01-简明Python基础.ipynb"; sourceTree = "<group>"; };
+		6D9729772445005E00A3CE4A /* THE TRAGEDY OF ROMEO AND JULIET.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "THE TRAGEDY OF ROMEO AND JULIET.txt"; sourceTree = "<group>"; };
+		6D9729792445005E00A3CE4A /* png-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "png-3.png"; sourceTree = "<group>"; };
+		6D97297A2445005E00A3CE4A /* png-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "png-2.png"; sourceTree = "<group>"; };
+		6D97297B2445005E00A3CE4A /* png-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "png-1.png"; sourceTree = "<group>"; };
+		6D97297C2445005E00A3CE4A /* png-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "png-4.png"; sourceTree = "<group>"; };
+		6D97297D2445005E00A3CE4A /* TensorFlow@-2-TensorFlow基础.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "TensorFlow@-2-TensorFlow基础.py"; sourceTree = "<group>"; };
+		6D97297E2445005E00A3CE4A /* TensorFlow@-2-TensorFlow基础.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@-2-TensorFlow基础.ipynb"; sourceTree = "<group>"; };
+		6D9729802445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard.ipynb"; sourceTree = "<group>"; };
+		6D9729812445005E00A3CE4A /* 线性代数-矩阵运算.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "线性代数-矩阵运算.py"; sourceTree = "<group>"; };
+		6D9729822445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Tensorflow@-4-波士顿房价预测-Pure.py"; sourceTree = "<group>"; };
+		6D9729832445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb"; sourceTree = "<group>"; };
+		6D9729852445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D9729862445005E00A3CE4A /* HomeWork-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "HomeWork-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D9729872445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D9729882445005E00A3CE4A /* 线性代数-矩阵运算-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "线性代数-矩阵运算-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D9729892445005E00A3CE4A /* HomeWork-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "HomeWork-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D97298A2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D97298B2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D97298C2445005E00A3CE4A /* 线性代数-矩阵运算-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "线性代数-矩阵运算-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D97298D2445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D97298E2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D97298F2445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb"; sourceTree = "<group>"; };
+		6D9729902445005E00A3CE4A /* HomeWork.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = HomeWork.ipynb; sourceTree = "<group>"; };
+		6D9729912445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.py"; sourceTree = "<group>"; };
+		6D9729922445005E00A3CE4A /* 线性代数-矩阵运算.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "线性代数-矩阵运算.ipynb"; sourceTree = "<group>"; };
+		6D9729942445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "MNIST手写数字识别：TensorFlow 2.0 实践.ipynb"; sourceTree = "<group>"; };
+		6D9729952445005E00A3CE4A /* argmax函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "argmax函数.py"; sourceTree = "<group>"; };
+		6D9729962445005E00A3CE4A /* Mnist.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = Mnist.ipynb; sourceTree = "<group>"; };
+		6D9729972445005E00A3CE4A /* Tensorflow@-5-Mnist_DataSet_Introduce.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow@-5-Mnist_DataSet_Introduce.ipynb"; sourceTree = "<group>"; };
+		6D9729982445005E00A3CE4A /* Mnist_DataSet_Introduce.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Mnist_DataSet_Introduce.py; sourceTree = "<group>"; };
+		6D9729992445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "MNIST手写数字识别：TensorFlow 2.0 实践.py"; sourceTree = "<group>"; };
+		6D97299B2445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D97299C2445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D97299D2445005E00A3CE4A /* argmax函数-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "argmax函数-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D97299E2445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D97299F2445005E00A3CE4A /* argmax函数-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "argmax函数-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D9729A02445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D9729A12445005E00A3CE4A /* argmax函数.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "argmax函数.ipynb"; sourceTree = "<group>"; };
+		6D9729A22445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "作业4:MNIST手写数字识别问题的单神经元模型实践.ipynb"; sourceTree = "<group>"; };
+		6D9729A42445005E00A3CE4A /* 单隐藏层神经网络构建与应用.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单隐藏层神经网络构建与应用.ipynb"; sourceTree = "<group>"; };
+		6D9729A52445005E00A3CE4A /* TF_MNIST_h256_TensorBoard.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = TF_MNIST_h256_TensorBoard.ipynb; sourceTree = "<group>"; };
+		6D9729A62445005E00A3CE4A /* 模型重构_MNIST_H256_H64_V1.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "模型重构_MNIST_H256_H64_V1.ipynb"; sourceTree = "<group>"; };
+		6D9729A72445005E00A3CE4A /* TF_MNIST_多层神经网络与应用.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TF_MNIST_多层神经网络与应用.ipynb"; sourceTree = "<group>"; };
+		6D9729A82445005E00A3CE4A /* Mnist - RestoreModel.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Mnist - RestoreModel.ipynb"; sourceTree = "<group>"; };
+		6D9729A92445005E00A3CE4A /* 模型重构_MNIST_H256_H64_H32_V1.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "模型重构_MNIST_H256_H64_H32_V1.ipynb"; sourceTree = "<group>"; };
+		6D9729AA2445005E00A3CE4A /* SaveModel.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SaveModel.py; sourceTree = "<group>"; };
+		6D9729AB2445005E00A3CE4A /* Mnist - SaveModel.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Mnist - SaveModel.ipynb"; sourceTree = "<group>"; };
+		6D9729AC2445005E00A3CE4A /* 保存模型_MNIST_H256_SaveModel.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "保存模型_MNIST_H256_SaveModel.ipynb"; sourceTree = "<group>"; };
+		6D9729AD2445005E00A3CE4A /* RestoreModel.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = RestoreModel.py; sourceTree = "<group>"; };
+		6D9729AE2445005E00A3CE4A /* 作业5:MNIST手写数字识别问题的多层神经网络模型实践.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "作业5:MNIST手写数字识别问题的多层神经网络模型实践.ipynb"; sourceTree = "<group>"; };
+		6D9729AF2445005E00A3CE4A /* 还原模型_MNIST_H256_RestoreModel.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "还原模型_MNIST_H256_RestoreModel.ipynb"; sourceTree = "<group>"; };
+		6D9729B02445005E00A3CE4A /* 模型重构_MNIST_H256_V1.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "模型重构_MNIST_H256_V1.ipynb"; sourceTree = "<group>"; };
+		6D9729B12445005E00A3CE4A /* 初始化参数和文件目录.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "初始化参数和文件目录.ipynb"; sourceTree = "<group>"; };
+		6D9729B22445005E00A3CE4A /* MNIST_H256_H64_H32.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = MNIST_H256_H64_H32.ipynb; sourceTree = "<group>"; };
+		6D9729B32445005E00A3CE4A /* MNIST_H256_H64.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = MNIST_H256_H64.ipynb; sourceTree = "<group>"; };
+		6D9729B52445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0实现单变量线性回归.ipynb"; sourceTree = "<group>"; };
+		6D9729B62445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "TensorFlow@3单变量线性回归-显示Loss.py"; sourceTree = "<group>"; };
+		6D9729B72445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-显示Loss.ipynb"; sourceTree = "<group>"; };
+		6D9729B82445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Tensorflow2.0实现单变量线性回归.py"; sourceTree = "<group>"; };
+		6D9729BA2445005E00A3CE4A /* TensorFlow@3单变量线性回归-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D9729BB2445005E00A3CE4A /* TensorFlow@3单变量线性回归-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D9729BC2445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0实现单变量线性回归-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D9729BD2445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss-checkpoint 3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-显示Loss-checkpoint 3.ipynb"; sourceTree = "<group>"; };
+		6D9729BE2445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归-显示Loss-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D9729BF2445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归-checkpoint.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tensorflow2.0实现单变量线性回归-checkpoint.ipynb"; sourceTree = "<group>"; };
+		6D9729C02445005E00A3CE4A /* TensorFlow@3单变量线性回归.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "TensorFlow@3单变量线性回归.ipynb"; sourceTree = "<group>"; };
+		6D9729C22445005E00A3CE4A /* 研究案例.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "研究案例.ipynb"; sourceTree = "<group>"; };
+		6D9729C32445005E00A3CE4A /* CNN_CIFAR10.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNN_CIFAR10.ipynb; sourceTree = "<group>"; };
+		6D9729C42445005E00A3CE4A /* CNN_CIFAR10_RestorModel.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNN_CIFAR10_RestorModel.ipynb; sourceTree = "<group>"; };
 		6DC69F8A24342C170074269A /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -14,8 +88,170 @@
 		6D4B6D8324341ACF0059607C = {
 			isa = PBXGroup;
 			children = (
+				6D9729702445005E00A3CE4A /* 深度学习应用开发 */,
 				6DC69F8924342BFC0074269A /* WorkSpase */,
 			);
+			sourceTree = "<group>";
+		};
+		6D9729702445005E00A3CE4A /* 深度学习应用开发 */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729712445005E00A3CE4A /* 第03讲（根据基础选修） 工欲善其事必先利其器：简明Python基础 */,
+				6D9729782445005E00A3CE4A /* 第04讲 磨刀不误砍柴工：TensorFlow 编程基础 */,
+				6D97297F2445005E00A3CE4A /* 第06讲 多元线性回归：波士顿房价预测问题TesnsorFlow实战 */,
+				6D9729932445005E00A3CE4A /* 第07讲 MNIST手写数字识别：分类应用入门 */,
+				6D9729A32445005E00A3CE4A /* 第08讲 MNIST手写数字识别进阶：多层神经网络与应用 */,
+				6D9729B42445005E00A3CE4A /* 第05讲 单变量线性回归：TesnsorFlow实战 */,
+				6D9729C12445005E00A3CE4A /* 第09讲 图像识别问题：卷积神经网络与应用 */,
+			);
+			path = "深度学习应用开发";
+			sourceTree = "<group>";
+		};
+		6D9729712445005E00A3CE4A /* 第03讲（根据基础选修） 工欲善其事必先利其器：简明Python基础 */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729722445005E00A3CE4A /* TensorFlow@-01-简明Python基础.py */,
+				6D9729732445005E00A3CE4A /* 词频统计3x.py */,
+				6D9729742445005E00A3CE4A /* 词频统计2x.py */,
+				6D9729752445005E00A3CE4A /* 词频统计.ipynb */,
+				6D9729762445005E00A3CE4A /* TensorFlow@-01-简明Python基础.ipynb */,
+				6D9729772445005E00A3CE4A /* THE TRAGEDY OF ROMEO AND JULIET.txt */,
+			);
+			path = "第03讲（根据基础选修） 工欲善其事必先利其器：简明Python基础";
+			sourceTree = "<group>";
+		};
+		6D9729782445005E00A3CE4A /* 第04讲 磨刀不误砍柴工：TensorFlow 编程基础 */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729792445005E00A3CE4A /* png-3.png */,
+				6D97297A2445005E00A3CE4A /* png-2.png */,
+				6D97297B2445005E00A3CE4A /* png-1.png */,
+				6D97297C2445005E00A3CE4A /* png-4.png */,
+				6D97297D2445005E00A3CE4A /* TensorFlow@-2-TensorFlow基础.py */,
+				6D97297E2445005E00A3CE4A /* TensorFlow@-2-TensorFlow基础.ipynb */,
+			);
+			path = "第04讲 磨刀不误砍柴工：TensorFlow 编程基础";
+			sourceTree = "<group>";
+		};
+		6D97297F2445005E00A3CE4A /* 第06讲 多元线性回归：波士顿房价预测问题TesnsorFlow实战 */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729802445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard.ipynb */,
+				6D9729812445005E00A3CE4A /* 线性代数-矩阵运算.py */,
+				6D9729822445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure.py */,
+				6D9729832445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */,
+				6D9729842445005E00A3CE4A /* .ipynb_checkpoints */,
+				6D97298F2445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.ipynb */,
+				6D9729902445005E00A3CE4A /* HomeWork.ipynb */,
+				6D9729912445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss.py */,
+				6D9729922445005E00A3CE4A /* 线性代数-矩阵运算.ipynb */,
+			);
+			path = "第06讲 多元线性回归：波士顿房价预测问题TesnsorFlow实战";
+			sourceTree = "<group>";
+		};
+		6D9729842445005E00A3CE4A /* .ipynb_checkpoints */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729852445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb */,
+				6D9729862445005E00A3CE4A /* HomeWork-checkpoint 3.ipynb */,
+				6D9729872445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb */,
+				6D9729882445005E00A3CE4A /* 线性代数-矩阵运算-checkpoint 3.ipynb */,
+				6D9729892445005E00A3CE4A /* HomeWork-checkpoint.ipynb */,
+				6D97298A2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint.ipynb */,
+				6D97298B2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-TensorBoard-checkpoint 3.ipynb */,
+				6D97298C2445005E00A3CE4A /* 线性代数-矩阵运算-checkpoint.ipynb */,
+				6D97298D2445005E00A3CE4A /* Tensorflow2.0@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint.ipynb */,
+				6D97298E2445005E00A3CE4A /* Tensorflow@-4-波士顿房价预测-Pure-Normalization-Loss-checkpoint 3.ipynb */,
+			);
+			path = .ipynb_checkpoints;
+			sourceTree = "<group>";
+		};
+		6D9729932445005E00A3CE4A /* 第07讲 MNIST手写数字识别：分类应用入门 */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729942445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践.ipynb */,
+				6D9729952445005E00A3CE4A /* argmax函数.py */,
+				6D9729962445005E00A3CE4A /* Mnist.ipynb */,
+				6D9729972445005E00A3CE4A /* Tensorflow@-5-Mnist_DataSet_Introduce.ipynb */,
+				6D9729982445005E00A3CE4A /* Mnist_DataSet_Introduce.py */,
+				6D9729992445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践.py */,
+				6D97299A2445005E00A3CE4A /* .ipynb_checkpoints */,
+				6D9729A12445005E00A3CE4A /* argmax函数.ipynb */,
+				6D9729A22445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践.ipynb */,
+			);
+			path = "第07讲 MNIST手写数字识别：分类应用入门";
+			sourceTree = "<group>";
+		};
+		6D97299A2445005E00A3CE4A /* .ipynb_checkpoints */ = {
+			isa = PBXGroup;
+			children = (
+				6D97299B2445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint.ipynb */,
+				6D97299C2445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint 3.ipynb */,
+				6D97299D2445005E00A3CE4A /* argmax函数-checkpoint 3.ipynb */,
+				6D97299E2445005E00A3CE4A /* 作业4:MNIST手写数字识别问题的单神经元模型实践-checkpoint 3.ipynb */,
+				6D97299F2445005E00A3CE4A /* argmax函数-checkpoint.ipynb */,
+				6D9729A02445005E00A3CE4A /* MNIST手写数字识别：TensorFlow 2.0 实践-checkpoint.ipynb */,
+			);
+			path = .ipynb_checkpoints;
+			sourceTree = "<group>";
+		};
+		6D9729A32445005E00A3CE4A /* 第08讲 MNIST手写数字识别进阶：多层神经网络与应用 */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729A42445005E00A3CE4A /* 单隐藏层神经网络构建与应用.ipynb */,
+				6D9729A52445005E00A3CE4A /* TF_MNIST_h256_TensorBoard.ipynb */,
+				6D9729A62445005E00A3CE4A /* 模型重构_MNIST_H256_H64_V1.ipynb */,
+				6D9729A72445005E00A3CE4A /* TF_MNIST_多层神经网络与应用.ipynb */,
+				6D9729A82445005E00A3CE4A /* Mnist - RestoreModel.ipynb */,
+				6D9729A92445005E00A3CE4A /* 模型重构_MNIST_H256_H64_H32_V1.ipynb */,
+				6D9729AA2445005E00A3CE4A /* SaveModel.py */,
+				6D9729AB2445005E00A3CE4A /* Mnist - SaveModel.ipynb */,
+				6D9729AC2445005E00A3CE4A /* 保存模型_MNIST_H256_SaveModel.ipynb */,
+				6D9729AD2445005E00A3CE4A /* RestoreModel.py */,
+				6D9729AE2445005E00A3CE4A /* 作业5:MNIST手写数字识别问题的多层神经网络模型实践.ipynb */,
+				6D9729AF2445005E00A3CE4A /* 还原模型_MNIST_H256_RestoreModel.ipynb */,
+				6D9729B02445005E00A3CE4A /* 模型重构_MNIST_H256_V1.ipynb */,
+				6D9729B12445005E00A3CE4A /* 初始化参数和文件目录.ipynb */,
+				6D9729B22445005E00A3CE4A /* MNIST_H256_H64_H32.ipynb */,
+				6D9729B32445005E00A3CE4A /* MNIST_H256_H64.ipynb */,
+			);
+			path = "第08讲 MNIST手写数字识别进阶：多层神经网络与应用";
+			sourceTree = "<group>";
+		};
+		6D9729B42445005E00A3CE4A /* 第05讲 单变量线性回归：TesnsorFlow实战 */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729B52445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归.ipynb */,
+				6D9729B62445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss.py */,
+				6D9729B72445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss.ipynb */,
+				6D9729B82445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归.py */,
+				6D9729B92445005E00A3CE4A /* .ipynb_checkpoints */,
+				6D9729C02445005E00A3CE4A /* TensorFlow@3单变量线性回归.ipynb */,
+			);
+			path = "第05讲 单变量线性回归：TesnsorFlow实战";
+			sourceTree = "<group>";
+		};
+		6D9729B92445005E00A3CE4A /* .ipynb_checkpoints */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729BA2445005E00A3CE4A /* TensorFlow@3单变量线性回归-checkpoint 3.ipynb */,
+				6D9729BB2445005E00A3CE4A /* TensorFlow@3单变量线性回归-checkpoint.ipynb */,
+				6D9729BC2445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归-checkpoint 3.ipynb */,
+				6D9729BD2445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss-checkpoint 3.ipynb */,
+				6D9729BE2445005E00A3CE4A /* TensorFlow@3单变量线性回归-显示Loss-checkpoint.ipynb */,
+				6D9729BF2445005E00A3CE4A /* Tensorflow2.0实现单变量线性回归-checkpoint.ipynb */,
+			);
+			path = .ipynb_checkpoints;
+			sourceTree = "<group>";
+		};
+		6D9729C12445005E00A3CE4A /* 第09讲 图像识别问题：卷积神经网络与应用 */ = {
+			isa = PBXGroup;
+			children = (
+				6D9729C22445005E00A3CE4A /* 研究案例.ipynb */,
+				6D9729C32445005E00A3CE4A /* CNN_CIFAR10.ipynb */,
+				6D9729C42445005E00A3CE4A /* CNN_CIFAR10_RestorModel.ipynb */,
+			);
+			path = "第09讲 图像识别问题：卷积神经网络与应用";
 			sourceTree = "<group>";
 		};
 		6DC69F8924342BFC0074269A /* WorkSpase */ = {
