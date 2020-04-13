@@ -81,6 +81,64 @@
 		6D9729C22445005E00A3CE4A /* 研究案例.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "研究案例.ipynb"; sourceTree = "<group>"; };
 		6D9729C32445005E00A3CE4A /* CNN_CIFAR10.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNN_CIFAR10.ipynb; sourceTree = "<group>"; };
 		6D9729C42445005E00A3CE4A /* CNN_CIFAR10_RestorModel.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNN_CIFAR10_RestorModel.ipynb; sourceTree = "<group>"; };
+		6D972A3C244501E800A3CE4A /* a.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = a.py; sourceTree = "<group>"; };
+		6D972A3D244501E800A3CE4A /* animal.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = animal.py; sourceTree = "<group>"; };
+		6D972A3E244501E800A3CE4A /* tf3_1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_1.py; sourceTree = "<group>"; };
+		6D972A3F244501E800A3CE4A /* c.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = c.py; sourceTree = "<group>"; };
+		6D972A40244501E800A3CE4A /* b.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = b.py; sourceTree = "<group>"; };
+		6D972A41244501E800A3CE4A /* save.dat */ = {isa = PBXFileReference; lastKnownFileType = text; path = save.dat; sourceTree = "<group>"; };
+		6D972A43244501E800A3CE4A /* mnist_backward.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_backward.py; sourceTree = "<group>"; };
+		6D972A44244501E800A3CE4A /* mnist_forward.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_forward.py; sourceTree = "<group>"; };
+		6D972A45244501E800A3CE4A /* mnist_test.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_test.py; sourceTree = "<group>"; };
+		6D972A47244501E800A3CE4A /* mnist_backward.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_backward.py; sourceTree = "<group>"; };
+		6D972A48244501E800A3CE4A /* mnist_forward.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_forward.py; sourceTree = "<group>"; };
+		6D972A4A244501E800A3CE4A /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		6D972A4B244501E800A3CE4A /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		6D972A4C244501E800A3CE4A /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		6D972A4D244501E800A3CE4A /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		6D972A4E244501E800A3CE4A /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		6D972A4F244501E800A3CE4A /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		6D972A50244501E800A3CE4A /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		6D972A51244501E800A3CE4A /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		6D972A52244501E800A3CE4A /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		6D972A53244501E800A3CE4A /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		6D972A54244501E800A3CE4A /* mnist_app.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_app.py; sourceTree = "<group>"; };
+		6D972A55244501E800A3CE4A /* mnist_test.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_test.py; sourceTree = "<group>"; };
+		6D972A57244501E800A3CE4A /* mnist_forward.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_forward.py; sourceTree = "<group>"; };
+		6D972A59244501E800A3CE4A /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		6D972A5A244501E800A3CE4A /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		6D972A5B244501E800A3CE4A /* 6 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6 2.png"; sourceTree = "<group>"; };
+		6D972A5C244501E800A3CE4A /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		6D972A5D244501E800A3CE4A /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		6D972A5E244501E800A3CE4A /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		6D972A5F244501E800A3CE4A /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		6D972A60244501E800A3CE4A /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		6D972A61244501E800A3CE4A /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		6D972A62244501E800A3CE4A /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		6D972A63244501E800A3CE4A /* mnist_generateds.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_generateds.py; sourceTree = "<group>"; };
+		6D972A64244501E800A3CE4A /* mnist_test.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_test.py; sourceTree = "<group>"; };
+		6D972A66244501E800A3CE4A /* mnist_backward.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_backward.py; sourceTree = "<group>"; };
+		6D972A67244501E800A3CE4A /* mnist_forward.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_forward.py; sourceTree = "<group>"; };
+		6D972A68244501E800A3CE4A /* mnist_test.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mnist_test.py; sourceTree = "<group>"; };
+		6D972A6A244501E800A3CE4A /* opt4_7.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_7.py; sourceTree = "<group>"; };
+		6D972A6B244501E800A3CE4A /* opt4_3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_3.py; sourceTree = "<group>"; };
+		6D972A6C244501E800A3CE4A /* opt4_2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_2.py; sourceTree = "<group>"; };
+		6D972A6D244501E800A3CE4A /* opt4_8_generateds.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_8_generateds.py; sourceTree = "<group>"; };
+		6D972A6E244501E800A3CE4A /* opt4_8_forward.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_8_forward.py; sourceTree = "<group>"; };
+		6D972A6F244501E800A3CE4A /* opt4_6.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_6.py; sourceTree = "<group>"; };
+		6D972A70244501E800A3CE4A /* opt4_1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_1.py; sourceTree = "<group>"; };
+		6D972A71244501E800A3CE4A /* opt4_5.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_5.py; sourceTree = "<group>"; };
+		6D972A72244501E800A3CE4A /* opt4_4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_4.py; sourceTree = "<group>"; };
+		6D972A73244501E800A3CE4A /* opt4_8_backward.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = opt4_8_backward.py; sourceTree = "<group>"; };
+		6D972A75244501E800A3CE4A /* tf3_4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_4.py; sourceTree = "<group>"; };
+		6D972A76244501E800A3CE4A /* tf3_5.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_5.py; sourceTree = "<group>"; };
+		6D972A77244501E800A3CE4A /* tf3_1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_1.py; sourceTree = "<group>"; };
+		6D972A78244501E800A3CE4A /* tf3_6.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_6.py; sourceTree = "<group>"; };
+		6D972A79244501E800A3CE4A /* tf3_2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_2.py; sourceTree = "<group>"; };
+		6D972A7A244501E800A3CE4A /* tf3_3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tf3_3.py; sourceTree = "<group>"; };
+		6D972A7B244501E800A3CE4A /* tf3_4.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = tf3_4.ipynb; sourceTree = "<group>"; };
+		6D972A7C244501E800A3CE4A /* tf3_3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = tf3_3.ipynb; sourceTree = "<group>"; };
+		6D972A7D244501E800A3CE4A /* tf3_5.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = tf3_5.ipynb; sourceTree = "<group>"; };
 		6DC69F8A24342C170074269A /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,6 +146,7 @@
 		6D4B6D8324341ACF0059607C = {
 			isa = PBXGroup;
 			children = (
+				6D972A3A244501E800A3CE4A /* TensorFlow笔记 */,
 				6D9729702445005E00A3CE4A /* 深度学习应用开发 */,
 				6DC69F8924342BFC0074269A /* WorkSpase */,
 			);
@@ -252,6 +311,143 @@
 				6D9729C42445005E00A3CE4A /* CNN_CIFAR10_RestorModel.ipynb */,
 			);
 			path = "第09讲 图像识别问题：卷积神经网络与应用";
+			sourceTree = "<group>";
+		};
+		6D972A3A244501E800A3CE4A /* TensorFlow笔记 */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A3B244501E800A3CE4A /* python */,
+				6D972A42244501E800A3CE4A /* fc1 */,
+				6D972A46244501E800A3CE4A /* fc3 */,
+				6D972A56244501E800A3CE4A /* fc4 */,
+				6D972A65244501E800A3CE4A /* fc2 */,
+				6D972A69244501E800A3CE4A /* opt */,
+				6D972A74244501E800A3CE4A /* tf */,
+			);
+			path = "TensorFlow笔记";
+			sourceTree = "<group>";
+		};
+		6D972A3B244501E800A3CE4A /* python */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A3C244501E800A3CE4A /* a.py */,
+				6D972A3D244501E800A3CE4A /* animal.py */,
+				6D972A3E244501E800A3CE4A /* tf3_1.py */,
+				6D972A3F244501E800A3CE4A /* c.py */,
+				6D972A40244501E800A3CE4A /* b.py */,
+				6D972A41244501E800A3CE4A /* save.dat */,
+			);
+			path = python;
+			sourceTree = "<group>";
+		};
+		6D972A42244501E800A3CE4A /* fc1 */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A43244501E800A3CE4A /* mnist_backward.py */,
+				6D972A44244501E800A3CE4A /* mnist_forward.py */,
+				6D972A45244501E800A3CE4A /* mnist_test.py */,
+			);
+			path = fc1;
+			sourceTree = "<group>";
+		};
+		6D972A46244501E800A3CE4A /* fc3 */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A47244501E800A3CE4A /* mnist_backward.py */,
+				6D972A48244501E800A3CE4A /* mnist_forward.py */,
+				6D972A49244501E800A3CE4A /* pic */,
+				6D972A54244501E800A3CE4A /* mnist_app.py */,
+				6D972A55244501E800A3CE4A /* mnist_test.py */,
+			);
+			path = fc3;
+			sourceTree = "<group>";
+		};
+		6D972A49244501E800A3CE4A /* pic */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A4A244501E800A3CE4A /* 8.png */,
+				6D972A4B244501E800A3CE4A /* 9.png */,
+				6D972A4C244501E800A3CE4A /* 4.png */,
+				6D972A4D244501E800A3CE4A /* 5.png */,
+				6D972A4E244501E800A3CE4A /* 7.png */,
+				6D972A4F244501E800A3CE4A /* 6.png */,
+				6D972A50244501E800A3CE4A /* 2.png */,
+				6D972A51244501E800A3CE4A /* 3.png */,
+				6D972A52244501E800A3CE4A /* 1.png */,
+				6D972A53244501E800A3CE4A /* 0.png */,
+			);
+			path = pic;
+			sourceTree = "<group>";
+		};
+		6D972A56244501E800A3CE4A /* fc4 */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A57244501E800A3CE4A /* mnist_forward.py */,
+				6D972A58244501E800A3CE4A /* pic */,
+				6D972A63244501E800A3CE4A /* mnist_generateds.py */,
+				6D972A64244501E800A3CE4A /* mnist_test.py */,
+			);
+			path = fc4;
+			sourceTree = "<group>";
+		};
+		6D972A58244501E800A3CE4A /* pic */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A59244501E800A3CE4A /* 8.png */,
+				6D972A5A244501E800A3CE4A /* 9.png */,
+				6D972A5B244501E800A3CE4A /* 6 2.png */,
+				6D972A5C244501E800A3CE4A /* 4.png */,
+				6D972A5D244501E800A3CE4A /* 7.png */,
+				6D972A5E244501E800A3CE4A /* 6.png */,
+				6D972A5F244501E800A3CE4A /* 2.png */,
+				6D972A60244501E800A3CE4A /* 3.png */,
+				6D972A61244501E800A3CE4A /* 1.png */,
+				6D972A62244501E800A3CE4A /* 0.png */,
+			);
+			path = pic;
+			sourceTree = "<group>";
+		};
+		6D972A65244501E800A3CE4A /* fc2 */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A66244501E800A3CE4A /* mnist_backward.py */,
+				6D972A67244501E800A3CE4A /* mnist_forward.py */,
+				6D972A68244501E800A3CE4A /* mnist_test.py */,
+			);
+			path = fc2;
+			sourceTree = "<group>";
+		};
+		6D972A69244501E800A3CE4A /* opt */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A6A244501E800A3CE4A /* opt4_7.py */,
+				6D972A6B244501E800A3CE4A /* opt4_3.py */,
+				6D972A6C244501E800A3CE4A /* opt4_2.py */,
+				6D972A6D244501E800A3CE4A /* opt4_8_generateds.py */,
+				6D972A6E244501E800A3CE4A /* opt4_8_forward.py */,
+				6D972A6F244501E800A3CE4A /* opt4_6.py */,
+				6D972A70244501E800A3CE4A /* opt4_1.py */,
+				6D972A71244501E800A3CE4A /* opt4_5.py */,
+				6D972A72244501E800A3CE4A /* opt4_4.py */,
+				6D972A73244501E800A3CE4A /* opt4_8_backward.py */,
+			);
+			path = opt;
+			sourceTree = "<group>";
+		};
+		6D972A74244501E800A3CE4A /* tf */ = {
+			isa = PBXGroup;
+			children = (
+				6D972A75244501E800A3CE4A /* tf3_4.py */,
+				6D972A76244501E800A3CE4A /* tf3_5.py */,
+				6D972A77244501E800A3CE4A /* tf3_1.py */,
+				6D972A78244501E800A3CE4A /* tf3_6.py */,
+				6D972A79244501E800A3CE4A /* tf3_2.py */,
+				6D972A7A244501E800A3CE4A /* tf3_3.py */,
+				6D972A7B244501E800A3CE4A /* tf3_4.ipynb */,
+				6D972A7C244501E800A3CE4A /* tf3_3.ipynb */,
+				6D972A7D244501E800A3CE4A /* tf3_5.ipynb */,
+			);
+			path = tf;
 			sourceTree = "<group>";
 		};
 		6DC69F8924342BFC0074269A /* WorkSpase */ = {
