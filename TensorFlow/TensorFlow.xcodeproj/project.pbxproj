@@ -117,7 +117,7 @@
 			children = (
 				6DC69F8924342BFC0074269A /* WorkSpase */,
 				6D4B6D8A24341AF40059607C /* 深度学习应用开发1 */,
-				6D4B6DC524341AF40059607C /* TensorFlow笔记 */,
+				6D4B6DC524341AF40059607C /* TensorFlow笔记1 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -230,7 +230,7 @@
 			path = "第09讲 图像识别问题：卷积神经网络与应用";
 			sourceTree = "<group>";
 		};
-		6D4B6DC524341AF40059607C /* TensorFlow笔记 */ = {
+		6D4B6DC524341AF40059607C /* TensorFlow笔记1 */ = {
 			isa = PBXGroup;
 			children = (
 				6D4B6DC624341AF40059607C /* python */,
@@ -241,7 +241,7 @@
 				6D4B6DF424341AF40059607C /* opt */,
 				6D4B6DFF24341AF40059607C /* tf */,
 			);
-			path = "TensorFlow笔记";
+			path = "TensorFlow笔记1";
 			sourceTree = "<group>";
 		};
 		6D4B6DC624341AF40059607C /* python */ = {
