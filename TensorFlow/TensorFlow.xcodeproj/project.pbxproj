@@ -14,8 +14,40 @@
 		6D4B6D8324341ACF0059607C = {
 			isa = PBXGroup;
 			children = (
+				6D97296C2444FFB200A3CE4A /* 深度学习应用开发 */,
 				6DC69F8924342BFC0074269A /* WorkSpase */,
 			);
+			sourceTree = "<group>";
+		};
+		6D97296C2444FFB200A3CE4A /* 深度学习应用开发 */ = {
+			isa = PBXGroup;
+			children = (
+				6D97296D2444FFB200A3CE4A /* 第06讲 多元线性回归：波士顿房价预测问题TesnsorFlow实战 */,
+				6D97296E2444FFB200A3CE4A /* 第07讲 MNIST手写数字识别：分类应用入门 */,
+				6D97296F2444FFB200A3CE4A /* 第08讲 MNIST手写数字识别进阶：多层神经网络与应用 */,
+			);
+			path = "深度学习应用开发";
+			sourceTree = "<group>";
+		};
+		6D97296D2444FFB200A3CE4A /* 第06讲 多元线性回归：波士顿房价预测问题TesnsorFlow实战 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "第06讲 多元线性回归：波士顿房价预测问题TesnsorFlow实战";
+			sourceTree = "<group>";
+		};
+		6D97296E2444FFB200A3CE4A /* 第07讲 MNIST手写数字识别：分类应用入门 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "第07讲 MNIST手写数字识别：分类应用入门";
+			sourceTree = "<group>";
+		};
+		6D97296F2444FFB200A3CE4A /* 第08讲 MNIST手写数字识别进阶：多层神经网络与应用 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "第08讲 MNIST手写数字识别进阶：多层神经网络与应用";
 			sourceTree = "<group>";
 		};
 		6DC69F8924342BFC0074269A /* WorkSpase */ = {
