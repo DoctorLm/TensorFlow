@@ -117,7 +117,12 @@
 		6D972A7B244501E800A3CE4A /* tf3_4.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = tf3_4.ipynb; sourceTree = "<group>"; };
 		6D972A7C244501E800A3CE4A /* tf3_3.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = tf3_3.ipynb; sourceTree = "<group>"; };
 		6D972A7D244501E800A3CE4A /* tf3_5.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = tf3_5.ipynb; sourceTree = "<group>"; };
+		6D99163F2456733A00ACD697 /* 卷积神经网络CNN模型.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = "卷积神经网络CNN模型.ipynb"; sourceTree = "<group>"; };
 		6DC69F8A24342C170074269A /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		6DE69D5B244565790040C16D /* SaveModel.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SaveModel.py; sourceTree = "<group>"; };
+		6DE69D5C244573BB0040C16D /* Titanic.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Titanic.py; sourceTree = "<group>"; };
+		6DE69D5D24457E2E0040C16D /* keras-mnist.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "keras-mnist.py"; sourceTree = "<group>"; };
+		6DE69D5F244595280040C16D /* Titanic.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = Titanic.ipynb; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -140,6 +145,7 @@
 				6D9729932445005E00A3CE4A /* 第07讲 MNIST手写数字识别：分类应用入门 */,
 				6D9729A32445005E00A3CE4A /* 第08讲 MNIST手写数字识别进阶：多层神经网络与应用 */,
 				6D9729C12445005E00A3CE4A /* 第09讲 图像识别问题：卷积神经网络与应用 */,
+				6DE69D5E244580860040C16D /* 第10讲 泰坦尼克号旅客生存预测：Keras应用实践 */,
 			);
 			path = "深度学习应用开发";
 			sourceTree = "<group>";
@@ -238,6 +244,7 @@
 		6D9729C12445005E00A3CE4A /* 第09讲 图像识别问题：卷积神经网络与应用 */ = {
 			isa = PBXGroup;
 			children = (
+				6D99163F2456733A00ACD697 /* 卷积神经网络CNN模型.ipynb */,
 				6D9729C22445005E00A3CE4A /* 研究案例.ipynb */,
 				6D9729C32445005E00A3CE4A /* CNN_CIFAR10.ipynb */,
 				6D9729C42445005E00A3CE4A /* CNN_CIFAR10_RestorModel.ipynb */,
@@ -352,16 +359,16 @@
 		6D972A69244501E800A3CE4A /* opt */ = {
 			isa = PBXGroup;
 			children = (
-				6D972A6A244501E800A3CE4A /* opt4_7.py */,
-				6D972A6B244501E800A3CE4A /* opt4_3.py */,
-				6D972A6C244501E800A3CE4A /* opt4_2.py */,
-				6D972A6D244501E800A3CE4A /* opt4_8_generateds.py */,
-				6D972A6E244501E800A3CE4A /* opt4_8_forward.py */,
-				6D972A6F244501E800A3CE4A /* opt4_6.py */,
 				6D972A70244501E800A3CE4A /* opt4_1.py */,
-				6D972A71244501E800A3CE4A /* opt4_5.py */,
+				6D972A6C244501E800A3CE4A /* opt4_2.py */,
+				6D972A6B244501E800A3CE4A /* opt4_3.py */,
 				6D972A72244501E800A3CE4A /* opt4_4.py */,
+				6D972A71244501E800A3CE4A /* opt4_5.py */,
+				6D972A6F244501E800A3CE4A /* opt4_6.py */,
+				6D972A6A244501E800A3CE4A /* opt4_7.py */,
 				6D972A73244501E800A3CE4A /* opt4_8_backward.py */,
+				6D972A6E244501E800A3CE4A /* opt4_8_forward.py */,
+				6D972A6D244501E800A3CE4A /* opt4_8_generateds.py */,
 			);
 			path = opt;
 			sourceTree = "<group>";
@@ -369,15 +376,15 @@
 		6D972A74244501E800A3CE4A /* tf */ = {
 			isa = PBXGroup;
 			children = (
-				6D972A75244501E800A3CE4A /* tf3_4.py */,
-				6D972A76244501E800A3CE4A /* tf3_5.py */,
 				6D972A77244501E800A3CE4A /* tf3_1.py */,
-				6D972A78244501E800A3CE4A /* tf3_6.py */,
 				6D972A79244501E800A3CE4A /* tf3_2.py */,
+				6D972A7C244501E800A3CE4A /* tf3_3.ipynb */,
 				6D972A7A244501E800A3CE4A /* tf3_3.py */,
 				6D972A7B244501E800A3CE4A /* tf3_4.ipynb */,
-				6D972A7C244501E800A3CE4A /* tf3_3.ipynb */,
+				6D972A75244501E800A3CE4A /* tf3_4.py */,
 				6D972A7D244501E800A3CE4A /* tf3_5.ipynb */,
+				6D972A76244501E800A3CE4A /* tf3_5.py */,
+				6D972A78244501E800A3CE4A /* tf3_6.py */,
 			);
 			path = tf;
 			sourceTree = "<group>";
@@ -386,8 +393,19 @@
 			isa = PBXGroup;
 			children = (
 				6DC69F8A24342C170074269A /* main.py */,
+				6DE69D5B244565790040C16D /* SaveModel.py */,
+				6DE69D5D24457E2E0040C16D /* keras-mnist.py */,
 			);
 			path = WorkSpase;
+			sourceTree = "<group>";
+		};
+		6DE69D5E244580860040C16D /* 第10讲 泰坦尼克号旅客生存预测：Keras应用实践 */ = {
+			isa = PBXGroup;
+			children = (
+				6DE69D5F244595280040C16D /* Titanic.ipynb */,
+				6DE69D5C244573BB0040C16D /* Titanic.py */,
+			);
+			path = "第10讲 泰坦尼克号旅客生存预测：Keras应用实践";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
