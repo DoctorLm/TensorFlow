@@ -146,9 +146,6 @@ converter = tf.lite.TFLiteConverter.from_session(sess)
 tflite_model = converter.convert()
 open("converted_model.tflite", "wb").write(tflite_model)
 
-
-
-
 print("Model saved!")
 #运行总时间
 duration = time()-startTime
