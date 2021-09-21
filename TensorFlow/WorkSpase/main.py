@@ -9,3 +9,4 @@ os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 #tf.disable_eager_execution()
 import tensorflow as tf
 print("TensorFlow版本:", tf.__version__)
+print("TensorFlow版本:", tf.__version__)
